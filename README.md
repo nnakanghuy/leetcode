@@ -44,11 +44,13 @@
 | [0015-3sum](https://github.com/nnakanghuy/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nnakanghuy/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nnakanghuy/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nnakanghuy/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nnakanghuy/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nnakanghuy/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/nnakanghuy/leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | [0049-group-anagrams](https://github.com/nnakanghuy/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/nnakanghuy/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nnakanghuy/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nnakanghuy/leetcode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
