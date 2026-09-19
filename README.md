@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nnakanghuy/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nnakanghuy/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nnakanghuy/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/nnakanghuy/leetcode/tree/master/0042-trapping-rain-water) |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nnakanghuy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nnakanghuy/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
