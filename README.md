@@ -30,6 +30,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nnakanghuy/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nnakanghuy/leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -50,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nnakanghuy/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nnakanghuy/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nnakanghuy/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nnakanghuy/leetcode/tree/master/0242-valid-anagram) |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nnakanghuy/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nnakanghuy/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
