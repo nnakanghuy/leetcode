@@ -36,6 +36,7 @@
 | [0141-linked-list-cycle](https://github.com/nnakanghuy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nnakanghuy/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nnakanghuy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/nnakanghuy/leetcode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0125-valid-palindrome](https://github.com/nnakanghuy/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nnakanghuy/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/nnakanghuy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/nnakanghuy/leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0242-valid-anagram](https://github.com/nnakanghuy/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nnakanghuy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/nnakanghuy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/nnakanghuy/leetcode/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -180,4 +183,5 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nnakanghuy/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nnakanghuy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/nnakanghuy/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
